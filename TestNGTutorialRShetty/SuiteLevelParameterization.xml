@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Pratice One Suite">
+	<parameter name="URL" value="Cogitate.us" />
+
+	<!-- Executing all the methods which is under the SampleOne & SampleFive -->
+	<test name="Testeu">
+		<classes>
+			<class name="TestNGPracticeOne.SampleSeven" />
+			<class name="TestNGPractice.SampleFour" />
+		</classes>
+	</test>
+</suite>
+ 
+ 

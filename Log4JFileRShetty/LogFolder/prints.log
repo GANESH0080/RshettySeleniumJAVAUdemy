@@ -1,0 +1,44 @@
+15:55:29.529 [main] DEBUG BetaPackage.Demo - I m debugging
+15:55:29.532 [main] INFO  BetaPackage.Demo - Pass
+15:55:29.532 [main] ERROR BetaPackage.Demo - Fail
+15:55:41.075 [main] DEBUG BetaPackage.Demo - I m debugging
+15:55:41.078 [main] INFO  BetaPackage.Demo - Pass
+15:55:41.079 [main] ERROR BetaPackage.Demo - Fail
+15:55:54.535 [main] DEBUG BetaPackage.Demo - I m debugging
+15:55:54.537 [main] INFO  BetaPackage.Demo - Pass
+15:55:54.538 [main] ERROR BetaPackage.Demo - Fail
+15:56:06.378 [main] DEBUG BetaPackage.Demo - I m debugging
+15:56:06.381 [main] INFO  BetaPackage.Demo - Pass
+15:56:06.381 [main] ERROR BetaPackage.Demo - Fail
+15:56:18.078 [main] DEBUG BetaPackage.Demo - I m debugging
+15:56:18.081 [main] INFO  BetaPackage.Demo - Pass
+15:56:18.082 [main] ERROR BetaPackage.Demo - Fail
+15:56:29.621 [main] DEBUG BetaPackage.Demo - I m debugging
+15:56:29.624 [main] INFO  BetaPackage.Demo - Pass
+15:56:29.624 [main] ERROR BetaPackage.Demo - Fail
+15:56:42.518 [main] DEBUG BetaPackage.Demo - I m debugging
+15:56:42.521 [main] INFO  BetaPackage.Demo - Pass
+15:56:42.521 [main] ERROR BetaPackage.Demo - Fail
+15:56:59.221 [main] DEBUG BetaPackage.Demo - I m debugging
+15:56:59.224 [main] INFO  BetaPackage.Demo - Pass
+15:56:59.224 [main] ERROR BetaPackage.Demo - Fail
+15:59:25.867 [main] DEBUG BetaPackage.Demo - I m debugging
+15:59:25.872 [main] INFO  BetaPackage.Demo - Pass
+15:59:25.872 [main] ERROR BetaPackage.Demo - Fail
+16:07:24.048 [main] DEBUG BetaPackage.Demo - I m debugging
+16:07:24.051 [main] INFO  BetaPackage.Demo - Pass
+16:07:24.051 [main] ERROR BetaPackage.Demo - Fail
+16:11:24.263 [main] DEBUG BetaPackage.Demo - I m debugging
+16:11:24.266 [main] INFO  BetaPackage.Demo - Pass
+16:11:24.266 [main] ERROR BetaPackage.Demo - Fail
+16:11:41.950 [main] ERROR AlphaPackage.Log4JExample - Fail
+16:12:00.177 [main] ERROR AlphaPackage.Log4JExample - Fail
+16:12:27.186 [main] DEBUG BetaPackage.Demo - I m debugging
+16:12:27.188 [main] INFO  BetaPackage.Demo - Pass
+16:12:27.188 [main] ERROR BetaPackage.Demo - Fail
+16:12:31.175 [main] DEBUG BetaPackage.Demo - I m debugging
+16:12:31.178 [main] INFO  BetaPackage.Demo - Pass
+16:12:31.178 [main] ERROR BetaPackage.Demo - Fail
+17:20:50.189 [main] DEBUG BetaPackage.Demo - I m debugging
+17:20:50.192 [main] INFO  BetaPackage.Demo - Pass
+17:20:50.192 [main] ERROR BetaPackage.Demo - Fail

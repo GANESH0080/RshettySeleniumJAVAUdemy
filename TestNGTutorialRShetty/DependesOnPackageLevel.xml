@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Pratice One Suite">
+<parameter name = "URL" value = "www.cogitate.us"/>
+<parameter name = "USERNAME" value = "GANESH0080"/>
+<parameter name = "PASSWORD" value = "Salunkhe@9797"/>
+<parameter name = "COMMONURL" value = "testing.com.net"/>
+
+
+	<!-- Executing all the methods which is under the SampleOne & SampleFive -->
+	<test name="Testeu">
+	
+		<packages>
+			<package name="TestNGPracticeOne" />
+			<package name="TestNGPractice" />
+		</packages>
+	</test>
+</suite>	

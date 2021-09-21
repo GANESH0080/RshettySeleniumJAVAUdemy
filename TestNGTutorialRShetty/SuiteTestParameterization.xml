@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Pratice One Suite">
+<parameter name = "URL" value = "www.cogitate.us"/>
+<parameter name = "USERNAME" value = "GANESH0080"/>
+<parameter name = "PASSWORD" value = "Salunkhe@9797"/>
+<parameter name="COMMONURL" value="www.testing.net" />
+	<test name="Testing">
+		<parameter name="URL" value="Direction.biz" />
+		<classes>
+			<class name="TestNGPracticeOne.SampleSix" />
+		</classes>
+	</test>
+	<test name="Testeu">
+		<parameter name="URL" value="Cogitate.us" />
+		<classes>
+			<class name="TestNGPractice.SampleOne" />
+		</classes>
+	</test>
+</suite>
+ 
+ 

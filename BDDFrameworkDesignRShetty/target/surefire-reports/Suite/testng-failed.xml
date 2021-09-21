@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="frameworkDesign.TestListener"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="Verifying Text(failed)" parallel="tests">
+    <classes>
+      <class name="frameworkDesign.VerifyText">
+        <methods>
+          <include name="verifyHeader"/>
+          <include name="verifyText"/>
+          <include name="closeBrowser"/>
+          <include name="startExecution"/>
+        </methods>
+      </class> <!-- frameworkDesign.VerifyText -->
+    </classes>
+  </test> <!-- Verifying Text(failed) -->
+  <test thread-count="5" verbose="0" name="Validating Users(failed)" parallel="tests">
+    <classes>
+      <class name="frameworkDesign.HomePage">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="startExecution"/>
+          <include name="UserLoginVerification"/>
+        </methods>
+      </class> <!-- frameworkDesign.HomePage -->
+    </classes>
+  </test> <!-- Validating Users(failed) -->
+  <test thread-count="5" verbose="0" name="Validating Contact Menu(failed)" parallel="tests">
+    <classes>
+      <class name="frameworkDesign.VerifyContact">
+        <methods>
+          <include name="VerifyContactMenu"/>
+          <include name="startExecution"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- frameworkDesign.VerifyContact -->
+    </classes>
+  </test> <!-- Validating Contact Menu(failed) -->
+</suite> <!-- Failed suite [Suite] -->

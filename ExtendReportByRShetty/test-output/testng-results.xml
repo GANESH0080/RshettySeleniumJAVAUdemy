@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11597" started-at="2021-08-24T16:00:04 IST" finished-at="2021-08-24T16:00:16 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11597" started-at="2021-08-24T16:00:04 IST" finished-at="2021-08-24T16:00:16 IST">
+      <class name="ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test">
+        <test-method status="PASS" signature="EReportSetup()[pri:0, instance:ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test@42f93a98]" name="EReportSetup" is-config="true" duration-ms="160" started-at="2021-08-24T16:00:04 IST" finished-at="2021-08-24T16:00:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EReportSetup -->
+        <test-method status="PASS" signature="TCase()[pri:0, instance:ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test@42f93a98]" name="TCase" duration-ms="6454" started-at="2021-08-24T16:00:04 IST" finished-at="2021-08-24T16:00:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCase -->
+        <test-method status="PASS" signature="TCase1()[pri:0, instance:ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test@42f93a98]" name="TCase1" duration-ms="4913" started-at="2021-08-24T16:00:11 IST" finished-at="2021-08-24T16:00:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCase1 -->
+        <test-method status="PASS" signature="EReportFlush()[pri:0, instance:ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test@42f93a98]" name="EReportFlush" is-config="true" duration-ms="24" started-at="2021-08-24T16:00:16 IST" finished-at="2021-08-24T16:00:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EReportFlush -->
+      </class> <!-- ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

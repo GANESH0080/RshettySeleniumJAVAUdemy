@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 3, Errors: 0, Skipped: 9, Time elapsed: 2.917 s <<< FAILURE! - in TestSuite
+startExecution(frameworkDesign.VerifyText)  Time elapsed: 1.976 s  <<< FAILURE!
+java.lang.NullPointerException
+	at frameworkDesign.VerifyText.startExecution(VerifyText.java:22)
+
+startExecution(frameworkDesign.VerifyContact)  Time elapsed: 1.978 s  <<< FAILURE!
+java.lang.NullPointerException
+	at frameworkDesign.VerifyContact.startExecution(VerifyContact.java:23)
+
+startExecution(frameworkDesign.HomePage)  Time elapsed: 1.978 s  <<< FAILURE!
+java.lang.NullPointerException
+	at frameworkDesign.HomePage.startExecution(HomePage.java:24)
+

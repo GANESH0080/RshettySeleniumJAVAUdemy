@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="73" started-at="2021-09-01T14:55:51 IST" finished-at="2021-09-01T14:55:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="73" started-at="2021-09-01T14:55:51 IST" finished-at="2021-09-01T14:55:51 IST">
+      <class name="RShetyMaven.AppiumTest">
+        <test-method status="PASS" signature="appiumBrowserAutomation()[pri:0, instance:RShetyMaven.AppiumTest@a67c67e]" name="appiumBrowserAutomation" duration-ms="0" started-at="2021-09-01T14:55:51 IST" finished-at="2021-09-01T14:55:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumBrowserAutomation -->
+        <test-method status="PASS" signature="appiumElementTest()[pri:0, instance:RShetyMaven.AppiumTest@a67c67e]" name="appiumElementTest" duration-ms="0" started-at="2021-09-01T14:55:51 IST" finished-at="2021-09-01T14:55:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumElementTest -->
+      </class> <!-- RShetyMaven.AppiumTest -->
+      <class name="RShetyMaven.TestJmeter">
+        <test-method status="PASS" signature="jmeterBrowserAutomation()[pri:0, instance:RShetyMaven.TestJmeter@21213b92]" name="jmeterBrowserAutomation" duration-ms="0" started-at="2021-09-01T14:55:51 IST" finished-at="2021-09-01T14:55:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jmeterBrowserAutomation -->
+        <test-method status="PASS" signature="jmeterseleniumElementTest()[pri:0, instance:RShetyMaven.TestJmeter@21213b92]" name="jmeterseleniumElementTest" duration-ms="0" started-at="2021-09-01T14:55:51 IST" finished-at="2021-09-01T14:55:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jmeterseleniumElementTest -->
+      </class> <!-- RShetyMaven.TestJmeter -->
+      <class name="RShetyMaven.SeleniumTest">
+        <test-method status="PASS" signature="seleniumElementTest()[pri:0, instance:RShetyMaven.SeleniumTest@4e1d422d]" name="seleniumElementTest" duration-ms="0" started-at="2021-09-01T14:55:51 IST" finished-at="2021-09-01T14:55:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumElementTest -->
+        <test-method status="PASS" signature="selniumBrowserAutomation()[pri:0, instance:RShetyMaven.SeleniumTest@4e1d422d]" name="selniumBrowserAutomation" duration-ms="0" started-at="2021-09-01T14:55:51 IST" finished-at="2021-09-01T14:55:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selniumBrowserAutomation -->
+      </class> <!-- RShetyMaven.SeleniumTest -->
+      <class name="RShetyMaven.APITest">
+        <test-method status="PASS" signature="APIBrowserAutomation()[pri:0, instance:RShetyMaven.APITest@dc24521]" name="APIBrowserAutomation" duration-ms="6" started-at="2021-09-01T14:55:51 IST" finished-at="2021-09-01T14:55:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIBrowserAutomation -->
+        <test-method status="PASS" signature="APIElementTest()[pri:0, instance:RShetyMaven.APITest@dc24521]" name="APIElementTest" duration-ms="0" started-at="2021-09-01T14:55:51 IST" finished-at="2021-09-01T14:55:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIElementTest -->
+      </class> <!-- RShetyMaven.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

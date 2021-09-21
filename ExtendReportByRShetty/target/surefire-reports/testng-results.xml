@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="11811" started-at="2021-08-13T19:08:45 IST" finished-at="2021-08-13T19:08:57 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="11811" started-at="2021-08-13T19:08:45 IST" finished-at="2021-08-13T19:08:57 IST">
+      <class name="ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test">
+        <test-method status="PASS" signature="EReportSetup()[pri:0, instance:ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test@3a883ce7]" name="EReportSetup" is-config="true" duration-ms="226" started-at="2021-08-13T19:08:45 IST" finished-at="2021-08-13T19:08:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EReportSetup -->
+        <test-method status="PASS" signature="TCase()[pri:0, instance:ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test@3a883ce7]" name="TCase" duration-ms="5901" started-at="2021-08-13T19:08:46 IST" finished-at="2021-08-13T19:08:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCase -->
+        <test-method status="PASS" signature="TCase1()[pri:0, instance:ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test@3a883ce7]" name="TCase1" duration-ms="5596" started-at="2021-08-13T19:08:52 IST" finished-at="2021-08-13T19:08:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TCase1 -->
+        <test-method status="PASS" signature="EReportFlush()[pri:0, instance:ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test@3a883ce7]" name="EReportFlush" is-config="true" duration-ms="44" started-at="2021-08-13T19:08:57 IST" finished-at="2021-08-13T19:08:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EReportFlush -->
+      </class> <!-- ExtendReportRShetty.ExtendReportByRShetty.ExtendReportPhase1Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

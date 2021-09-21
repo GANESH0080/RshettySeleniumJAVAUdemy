@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42353" started-at="2021-08-26T10:34:02 IST" finished-at="2021-08-26T10:34:44 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="42353" started-at="2021-08-26T10:34:02 IST" finished-at="2021-08-26T10:34:44 IST">
+      <class name="FramewordDesign.VerifyContact">
+        <test-method status="PASS" signature="startExecution()[pri:0, instance:FramewordDesign.VerifyContact@63475ace]" name="startExecution" is-config="true" duration-ms="2314" started-at="2021-08-26T10:34:37 IST" finished-at="2021-08-26T10:34:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExecution -->
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:FramewordDesign.VerifyContact@63475ace]" name="basePageNavigation" duration-ms="3942" started-at="2021-08-26T10:34:40 IST" finished-at="2021-08-26T10:34:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:FramewordDesign.VerifyContact@63475ace]" name="closeBrowser" is-config="true" duration-ms="709" started-at="2021-08-26T10:34:44 IST" finished-at="2021-08-26T10:34:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- FramewordDesign.VerifyContact -->
+      <class name="FramewordDesign.HomePage">
+        <test-method status="PASS" signature="startExecution()[pri:0, instance:FramewordDesign.HomePage@2de23121]" name="startExecution" is-config="true" duration-ms="2162" started-at="2021-08-26T10:34:11 IST" finished-at="2021-08-26T10:34:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExecution -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:FramewordDesign.HomePage@2de23121]" name="basePageNavigation" duration-ms="5755" started-at="2021-08-26T10:34:13 IST" data-provider="getdata" finished-at="2021-08-26T10:34:19 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UserName_ganesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password_salunkhe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:FramewordDesign.HomePage@2de23121]" name="closeBrowser" is-config="true" duration-ms="1038" started-at="2021-08-26T10:34:19 IST" finished-at="2021-08-26T10:34:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="startExecution()[pri:0, instance:FramewordDesign.HomePage@2de23121]" name="startExecution" is-config="true" duration-ms="2303" started-at="2021-08-26T10:34:20 IST" finished-at="2021-08-26T10:34:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExecution -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:FramewordDesign.HomePage@2de23121]" name="basePageNavigation" duration-ms="5917" started-at="2021-08-26T10:34:22 IST" data-provider="getdata" finished-at="2021-08-26T10:34:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UserName_deepak]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password_salunkhe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:FramewordDesign.HomePage@2de23121]" name="closeBrowser" is-config="true" duration-ms="946" started-at="2021-08-26T10:34:28 IST" finished-at="2021-08-26T10:34:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="startExecution()[pri:0, instance:FramewordDesign.HomePage@2de23121]" name="startExecution" is-config="true" duration-ms="2458" started-at="2021-08-26T10:34:29 IST" finished-at="2021-08-26T10:34:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExecution -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:FramewordDesign.HomePage@2de23121]" name="basePageNavigation" duration-ms="5293" started-at="2021-08-26T10:34:31 IST" data-provider="getdata" finished-at="2021-08-26T10:34:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[UserName_omkar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password_salunkhe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:FramewordDesign.HomePage@2de23121]" name="closeBrowser" is-config="true" duration-ms="786" started-at="2021-08-26T10:34:37 IST" finished-at="2021-08-26T10:34:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- FramewordDesign.HomePage -->
+      <class name="FramewordDesign.VerifyText">
+        <test-method status="PASS" signature="startExecution()[pri:0, instance:FramewordDesign.VerifyText@3a52dba3]" name="startExecution" is-config="true" duration-ms="3714" started-at="2021-08-26T10:34:02 IST" finished-at="2021-08-26T10:34:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startExecution -->
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:FramewordDesign.VerifyText@3a52dba3]" name="basePageNavigation" duration-ms="3814" started-at="2021-08-26T10:34:06 IST" finished-at="2021-08-26T10:34:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:FramewordDesign.VerifyText@3a52dba3]" name="closeBrowser" is-config="true" duration-ms="1099" started-at="2021-08-26T10:34:10 IST" finished-at="2021-08-26T10:34:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- FramewordDesign.VerifyText -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
