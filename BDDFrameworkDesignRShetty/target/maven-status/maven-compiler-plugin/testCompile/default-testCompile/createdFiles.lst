@@ -1,4 +1,6 @@
 frameworkDesign\VerifyContact.class
+RunnerPackage\TestRunner.class
+StespDefinations\StepDefination.class
 frameworkDesign\TestListener.class
-frameworkDesign\HomePage.class
 frameworkDesign\VerifyText.class
+frameworkDesign\HomePage.class

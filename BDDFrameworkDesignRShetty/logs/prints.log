@@ -4216,3 +4216,10 @@
 17:04:07.897 [main] INFO  frameworkDesign.HomePage - Driver Initiliazed for HomePage Testcase
 17:04:52.660 [main] INFO  frameworkDesign.HomePage - Driver Initiliazed for HomePage Testcase
 17:05:38.144 [main] INFO  frameworkDesign.HomePage - Driver Initiliazed for HomePage Testcase
+20:39:36.696 [main] INFO  frameworkDesign.HomePage - Driver Initiliazed for HomePage Testcase
+20:40:22.221 [main] INFO  frameworkDesign.HomePage - Driver Initiliazed for HomePage Testcase
+20:41:07.107 [main] INFO  frameworkDesign.HomePage - Driver Initiliazed for HomePage Testcase
+20:46:50.744 [TestNG-tests-1] INFO  frameworkDesign.TestListener - ** Test Suite feature ending **
+20:46:54.417 [TestNG-tests-1] INFO  frameworkDesign.HomePage - Driver Initiliazed for HomePage Testcase
+20:47:40.593 [TestNG-tests-1] INFO  frameworkDesign.HomePage - Driver Initiliazed for HomePage Testcase
+20:48:24.304 [TestNG-tests-1] INFO  frameworkDesign.HomePage - Driver Initiliazed for HomePage Testcase

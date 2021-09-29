@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="139750" started-at="2021-09-21T17:04:03 IST" finished-at="2021-09-21T17:06:23 IST">
+  <suite name="Default suite" duration-ms="137413" started-at="2021-09-21T20:39:31 IST" finished-at="2021-09-21T20:41:48 IST">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:RunnerPackage.TestRunner@12cdcf4]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="Default test" duration-ms="139750" started-at="2021-09-21T17:04:03 IST" finished-at="2021-09-21T17:06:23 IST">
+    <test name="Default test" duration-ms="137413" started-at="2021-09-21T20:39:31 IST" finished-at="2021-09-21T20:41:48 IST">
       <class name="RunnerPackage.TestRunner">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:RunnerPackage.TestRunner@12cdcf4]" name="setUpClass" is-config="true" duration-ms="332" started-at="2021-09-21T17:04:03 IST" finished-at="2021-09-21T17:04:03 IST">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:RunnerPackage.TestRunner@12cdcf4]" name="setUpClass" is-config="true" duration-ms="422" started-at="2021-09-21T20:39:31 IST" finished-at="2021-09-21T20:39:31 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="FAIL" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:RunnerPackage.TestRunner@12cdcf4]" name="feature" duration-ms="139231" started-at="2021-09-21T17:04:03 IST" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-09-21T17:06:23 IST">
+        <test-method status="FAIL" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:RunnerPackage.TestRunner@12cdcf4]" name="feature" duration-ms="136783" started-at="2021-09-21T20:39:32 IST" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-09-21T20:41:48 IST">
           <params>
             <param index="0">
               <value>
@@ -30,8 +30,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'CTSL023', ip: '192.168.0.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\GANESH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56667}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 5d954cde8de422deb4020f9860875de6
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\GANESH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59997}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3f5af5fbc1aec38274f29376b930d77
 *** Element info: {Using=xpath, value=//input[@id='search']}]]>
             </message>
             <full-stacktrace>
@@ -41,8 +41,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'CTSL023', ip: '192.168.0.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\GANESH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56667}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 5d954cde8de422deb4020f9860875de6
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\GANESH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59997}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3f5af5fbc1aec38274f29376b930d77
 *** Element info: {Using=xpath, value=//input[@id='search']}
 at cucumber.api.testng.TestNGCucumberRunner.runCucumber(TestNGCucumberRunner.java:69)
 at cucumber.api.testng.AbstractTestNGCucumberTests.feature(AbstractTestNGCucumberTests.java:21)
@@ -80,8 +80,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'CTSL023', ip: '192.168.0.121', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\GANESH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56667}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 5d954cde8de422deb4020f9860875de6
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\GANESH~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59997}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: a3f5af5fbc1aec38274f29376b930d77
 *** Element info: {Using=xpath, value=//input[@id='search']}
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
@@ -106,7 +106,7 @@ at ✽.Then Verify user is successfully Logged In(login.feature:8)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:RunnerPackage.TestRunner@12cdcf4]" name="tearDownClass" is-config="true" duration-ms="21" started-at="2021-09-21T17:06:23 IST" finished-at="2021-09-21T17:06:23 IST">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:RunnerPackage.TestRunner@12cdcf4]" name="tearDownClass" is-config="true" duration-ms="11" started-at="2021-09-21T20:41:48 IST" finished-at="2021-09-21T20:41:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

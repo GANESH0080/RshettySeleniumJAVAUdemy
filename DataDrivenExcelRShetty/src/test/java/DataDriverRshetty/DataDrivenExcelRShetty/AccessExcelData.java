@@ -11,8 +11,9 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 public class AccessExcelData {
 
 	public static void main(String[] args) throws IOException {
-		// TODO Auto-generated method stub
-		XSSFWorkbook workbook = new XSSFWorkbook("D:\\SeleniumWorkspace\\DataDrivenExcelRShetty\\TestData.xlsx");
+		String dir = System.getProperty("user.dir");
+		System.out.println(dir);
+		XSSFWorkbook workbook = new XSSFWorkbook(dir+"\\TestData.xlsx");
 		System.out.println("Total avaialable sheets are in excel : " + " " + workbook.getNumberOfSheets());
 		int totalSheets = workbook.getNumberOfSheets();
 		System.out.println("Total sheets stored in veriable :" + " " + totalSheets);
